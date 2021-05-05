@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="lib">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/代码素材/部署代码/WEB-INF/lib/fastjson-1.2.75.jar!/" />
-      <root url="jar://$PROJECT_DIR$/代码素材/部署代码/WEB-INF/lib/mysql-connector-java-8.0.22.jar!/" />
-      <root url="jar://$PROJECT_DIR$/代码素材/部署代码/WEB-INF/lib/junit-4.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/codesample/部署代码/WEB-INF/lib/fastjson-1.2.75.jar!/" />
+      <root url="jar://$PROJECT_DIR$/codesample/部署代码/WEB-INF/lib/mysql-connector-java-8.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/codesample/部署代码/WEB-INF/lib/junit-4.13.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
